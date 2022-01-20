@@ -6,6 +6,7 @@ const Header = {
     </div>
         <div class="bg-orange-500 flex ">
             <ul class="flex">
+            <li><a href="/" class="block px-4 ml-4 py-5 hover:bg-indigo-500 hover:text-orange-700 text-white">Trang chủ</a></li>
             <li><a href="/about" class="block px-4 ml-4 py-5 hover:bg-indigo-500 hover:text-orange-700 text-white">Tuyển sinh</a></li>
             <li><a href="/product" class="block px-4 py-5 hover:bg-indigo-500 hover:text-orange-700 text-white">Chương trình đào tạo</a></li>
             <li><a href="/product" class="block px-4 py-5 hover:bg-indigo-500 hover:text-orange-700 text-white">Góc sinh viên</a></li>
