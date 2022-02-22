@@ -1,6 +1,8 @@
 import instance from "./config";
 
 // eslint-disable-next-line import/prefer-default-export
+// eslint-disable-next-line import/prefer-default-export
+
 export const signup = (user) => {
     const url = `/signup`;
     return instance.post(url, user);
