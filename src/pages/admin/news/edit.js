@@ -44,7 +44,7 @@ const AdminEditPost = {
                             style="width: 100%;"
                             /> </br >
                             <br>
-                            Số Lượng Sản Phẩm : <br> <br>
+                            Số Lượng : <br> <br>
                     <input type="text" 
                             id="kho-post" 
                             class="border border-black" 
