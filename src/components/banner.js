@@ -31,7 +31,7 @@ const Banner = {
                    </li>
                    <li>
                       <div class="flat-caption caption2 formLeft delay400 text-center">
-                         <h1  style="color: #000;">New Fashion of 2013</h1>
+                         <h1  style="color: #000;">Ne Fashion of 2013</h1>
                       </div>
                       <div class="flat-caption caption3 formLeft delay500 text-center">
                          <p  style="color: #000;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br>Lorem Ipsum is simply dummy text of the printing and typesetting</p>
