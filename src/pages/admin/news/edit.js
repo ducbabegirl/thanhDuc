@@ -44,7 +44,7 @@ const AdminEditPost = {
                             style="width: 100%;"
                             /> </br >
                             <br>
-                            Số Lượng : <br> <br>
+                            Số Lượng Sản Phẩm : <br> <br>
                     <input type="text" 
                             id="kho-post" 
                             class="border border-black" 
@@ -53,7 +53,7 @@ const AdminEditPost = {
                             style="width: 100%;"
                             /> </br >
                             <br>
-                            Hình Ảnh Sản Phẩm : <br> <br>
+                            Hình Ảnh  : <br> <br>
                     <input type="file" 
                             id="img-post" 
                             class="border border-black"  
