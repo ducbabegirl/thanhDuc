@@ -1,36 +1,36 @@
 {
   "posts": [
     {
-      "title": "ok hay",
-      "img": "http://res.cloudinary.com/dbgqzqeps/image/upload/v1645100443/apiimg/be9w1kd0cqbibs7fxocl.png",
-      "desc": "fggngng",
-      "price": "555$",
-      "kho": "20",
-      "id": "EzF5Xju"
+      "id": "EzF5Xju",
+      "title": "Quần Áo hay",
+      "img": "http://res.cloudinary.com/dbgqzqeps/image/upload/v1645425338/apiimg/ik3jhighfg7wvrv8wg53.png",
+      "price": "444",
+      "kho": "3",
+      "desc": "hâyyay"
     },
     {
-      "title": "Quần Áo Nam",
+      "id": "eJXWPtR",
+      "title": "Quần Áo Namdcd",
       "img": "http://res.cloudinary.com/dbgqzqeps/image/upload/v1645102588/apiimg/hisjzzxpfnuqtxo86si7.png",
-      "desc": "đẹp",
       "price": "555$",
       "kho": "20",
-      "id": "eJXWPtR"
+      "desc": "đẹp"
     },
     {
+      "id": "YpZ8oLi",
       "title": "Quần Áo Nữ",
       "img": "http://res.cloudinary.com/dbgqzqeps/image/upload/v1645102606/apiimg/kbsdnqg6jqiked0saho4.png",
-      "desc": "đepk",
       "price": "555$",
-      "kho": "20",
-      "id": "YpZ8oLi"
+      "kho": "50",
+      "desc": "đepk"
     },
     {
+      "id": "dvKO5Y6",
       "title": "Quần Áo Mới",
       "img": "http://res.cloudinary.com/dbgqzqeps/image/upload/v1645102639/apiimg/qnem3k8qxnnc0wlun6zw.png",
-      "desc": "hehehee",
       "price": "555$",
       "kho": "20",
-      "id": "dvKO5Y6"
+      "desc": "ok lắm"
     },
     {
       "title": "Quần Áo Nhà",
@@ -57,12 +57,12 @@
       "id": "-LR5sl6"
     },
     {
-      "title": "Quần Áo Nam",
-      "img": "http://res.cloudinary.com/dbgqzqeps/image/upload/v1645102710/apiimg/elhs6fqsjxgnrfs7lnc3.png",
-      "desc": "nhânhahaa",
+      "title": "ÁO VIP",
+      "img": "http://res.cloudinary.com/dbgqzqeps/image/upload/v1645114052/apiimg/risgxscu9sqesnwthhik.png",
+      "desc": "HAY QUÁ",
       "price": "555$",
       "kho": "20",
-      "id": "GgNWfH7"
+      "id": "9KBJzg3"
     }
   ],
   "catePosts": [
@@ -100,6 +100,11 @@
       "email": "dudddc@gmail.com",
       "password": "$2a$10$bMa7JFRF9qdTj/Yq6XV/i.uoPaqD2QUGVTLCDflTPooypVvWJTIUC",
       "id": 5
+    },
+    {
+      "email": "duddidc@gmail.com",
+      "password": "$2a$10$Y2H4WET4eOzbnplh/IR/1.EbNtCRv2dAOtC0FE9hsfDtdRL9hpXuK",
+      "id": 6
     }
   ],
   "products": [
@@ -111,11 +116,25 @@
       "id": "EzF5Xju"
     },
     {
-      "title": "ok hay",
-      "img": "http://res.cloudinary.com/dbgqzqeps/image/upload/v1645100443/apiimg/be9w1kd0cqbibs7fxocl.png",
-      "desc": "fggngng",
+      "title": "Quần Áo Nam",
+      "img": "http://res.cloudinary.com/dbgqzqeps/image/upload/v1645102588/apiimg/hisjzzxpfnuqtxo86si7.png",
+      "desc": "đẹp",
       "price": "555$",
-      "id": "EzF5Xju"
+      "id": "eJXWPtR"
+    },
+    {
+      "title": "Quần Áo Nữ",
+      "img": "http://res.cloudinary.com/dbgqzqeps/image/upload/v1645102606/apiimg/kbsdnqg6jqiked0saho4.png",
+      "desc": "đepk",
+      "price": "555$",
+      "id": "YpZ8oLi"
+    },
+    {
+      "title": "Quần Áo Mới",
+      "img": "http://res.cloudinary.com/dbgqzqeps/image/upload/v1645102639/apiimg/qnem3k8qxnnc0wlun6zw.png",
+      "desc": "hehehee",
+      "price": "555$",
+      "id": "dvKO5Y6"
     },
     {
       "title": "ok hay",
@@ -125,11 +144,11 @@
       "id": "EzF5Xju"
     },
     {
-      "title": "ok hay",
-      "img": "http://res.cloudinary.com/dbgqzqeps/image/upload/v1645100443/apiimg/be9w1kd0cqbibs7fxocl.png",
-      "desc": "fggngng",
+      "title": "Quần Áo Nhà",
+      "img": "http://res.cloudinary.com/dbgqzqeps/image/upload/v1645102660/apiimg/nqhvqjguzbg4g7evalcm.png",
+      "desc": "dẹp",
       "price": "555$",
-      "id": "EzF5Xju"
+      "id": "8o2kiW3"
     },
     {
       "title": "ok hay",
@@ -139,32 +158,18 @@
       "id": "EzF5Xju"
     },
     {
-      "title": "ok hay",
-      "img": "http://res.cloudinary.com/dbgqzqeps/image/upload/v1645100443/apiimg/be9w1kd0cqbibs7fxocl.png",
-      "desc": "fggngng",
+      "title": "Quần Áo Nam",
+      "img": "http://res.cloudinary.com/dbgqzqeps/image/upload/v1645102690/apiimg/jlmxzoq1c0yyixliim70.png",
+      "desc": "nhânhaa",
       "price": "555$",
-      "id": "EzF5Xju"
+      "id": "-LR5sl6"
     },
     {
-      "title": "ok hay",
-      "img": "http://res.cloudinary.com/dbgqzqeps/image/upload/v1645100443/apiimg/be9w1kd0cqbibs7fxocl.png",
-      "desc": "fggngng",
+      "title": "Quần Áo Nữ",
+      "img": "http://res.cloudinary.com/dbgqzqeps/image/upload/v1645102606/apiimg/kbsdnqg6jqiked0saho4.png",
+      "desc": "đepk",
       "price": "555$",
-      "id": "EzF5Xju"
-    },
-    {
-      "title": "ok hay",
-      "img": "http://res.cloudinary.com/dbgqzqeps/image/upload/v1645100443/apiimg/be9w1kd0cqbibs7fxocl.png",
-      "desc": "fggngng",
-      "price": "555$",
-      "id": "EzF5Xju"
-    },
-    {
-      "title": "ok hay",
-      "img": "http://res.cloudinary.com/dbgqzqeps/image/upload/v1645100443/apiimg/be9w1kd0cqbibs7fxocl.png",
-      "desc": "fggngng",
-      "price": "555$",
-      "id": "EzF5Xju"
+      "id": "YpZ8oLi"
     }
   ]
 }

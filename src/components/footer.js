@@ -1,8 +1,7 @@
 const Footer = {
    render() {
        return /*html*/`
-       
-    </div>
+    
     <div class="clearfix"></div>
     
     <div class="footer">

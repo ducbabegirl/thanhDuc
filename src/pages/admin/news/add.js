@@ -5,6 +5,7 @@ import AdminNav from "../../../components/AdminNav";
 import { reRender } from "../../../utils";
 
 
+
 const AdminAddPost = {
     async render() {
         console.log("Add Post");
@@ -17,7 +18,7 @@ const AdminAddPost = {
                     <div class="lg:flex lg:items-center lg:justify-between">
                         <div class="flex-1 min-w-0">
                             <h2 class="text-2xl font-bold leading-7 text-gray-900 sm:text-3xl sm:truncate">
-                               Add New
+                            Thêm Sản Phẩm :
                             </h2>
                         </div>
                     </div>
@@ -27,13 +28,18 @@ const AdminAddPost = {
                 <div class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">
                     <div class="px-4 py-6 sm:px-0">
                         <form id="form-add">
-                            <input type="text" id="title-post" class="border border-black" placeholder="Title" /> </br>
+                        Tên Sản Phẩm : <br> <br>
+                            <input type="text" id="title-post" class="border border-black" placeholder="Title" style="width: 100%;" /> </br>
+                            <br>
                             <input type="file" id="img-post" class="border border-black"  placeholder="Image" /> </br >
-                            <input type="text" id="price-post" class="border border-black" placeholder="Price" /> </br>
-                            <input type="text" id="kho-post" class="border border-black" placeholder="Quanlity" /> </br>
-                            <textarea name="" id="desc-post" cols="30" rows="10" class="border border-black"></textarea></br></br>
+                            GIÁ SẢN PHẨM :  <br> <br>
+                            <input type="text" id="price-post" class="border border-black" placeholder="Price" style="width: 100%;" /> </br> <br>
+                            SỐ LƯỢNG  :  <br> <br>
+                            <input type="text" id="kho-post" class="border border-black" placeholder="Quanlity" style="width: 100%;" /> </br> <br>
+                            MÔ TẢ :  <br> <br>
+                            <textarea name="" id="desc-post" cols="30" rows="10" class="border border-black" style="width: 100%;"></textarea></br></br>
                             
-                            <button class="bg-blue-500 p-4 text-white">Thêm Bài Viết</button>
+                            <button class="bg-blue-500 p-4 text-white">Thêm Sản Phẩm</button>
                         </form>
                     </div>
                     <!-- /End replace -->
@@ -43,6 +49,7 @@ const AdminAddPost = {
         
         `;
     },
+    
     afterRender() {
         const formAdd = document.querySelector("#form-add");
         const CLOUDINARY_API = "https://api.cloudinary.com/v1_1/dbgqzqeps/image/upload";
@@ -77,7 +84,10 @@ const AdminAddPost = {
             window.location.href = "/#/admin/news";
 
             reRender(AdminNewsPage, "#app");
+            
         });
+        
     },
 };
 export default AdminAddPost;
+

@@ -397,7 +397,7 @@ const ProductPage = {
                     New
                   </div>
                   <div class="thumbnail">
-                    <a href="/products/${product.id}">
+                    <a href="/#/products/${product.id}">
                       <img src="${product.img}" alt="Product Name">
                     </a>
                   </div>

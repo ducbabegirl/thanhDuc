@@ -12,6 +12,7 @@ import Signup from "./pages/signup";
 import CartPage from "./pages/cart";
 import ProductDetailPage from "./pages/products/detail";
 
+
 const router = new Navigo("/", { linksSelector: "a", hash: true });
 
 const print = async (content, id) => {

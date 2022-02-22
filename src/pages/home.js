@@ -3,6 +3,7 @@ import Footer from "../components/footer";
 import Header from "../components/header";
 import News from "../components/news";
 
+
 const HomePage = {
     async render() {
         return /* html */`
@@ -14,6 +15,7 @@ const HomePage = {
                 <div class="banner">
                     ${Banner.render()}
                 </div>
+                
                 <div class="news">
                     ${await News.render()}
                 </div>
